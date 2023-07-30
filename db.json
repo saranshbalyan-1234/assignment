@@ -1,0 +1,43 @@
+{
+  "list": [
+    {
+      "key": "1",
+      "id": 1,
+      "name": "Sebastian",
+      "phone": "7355515630",
+      "email": "sebastian@codingthesmartway.com",
+      "bookedSlots": [
+        {
+          "start": "2023-07-01",
+          "end": "2023-07-02"
+        },
+        {
+          "start": "2023-07-03",
+          "end": "2023-07-04"
+        }
+      ],
+      "speciality": "Bankruptcy",
+      "profile": "https://vicepresidentofindia.nic.in/sites/default/files/ShriJDhankhar.JPG"
+    },
+    {
+      "key": "2",
+      "id": 2,
+      "name": "Luke Mike",
+      "phone": "7355515630",
+      "email": "mikedr@codingthesmartway.com",
+      "bookedSlots": [],
+      "speciality": "Entertainment Lawyer",
+      "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyIkWCF_2NnTM-imjWtFuzsPEWFYYH-Vk76A&usqp=CAU"
+    },
+    {
+      "key": "3",
+      "id": 3,
+      "name": "Jonny Baristow",
+      "phone": "7355515630",
+      "email": "jonnybr@codingthesmartway.com",
+      "bookedSlots": [],
+      "speciality": "Tax Lawyer",
+      "profile": "https://pbs.twimg.com/profile_images/1485050791488483328/UNJ05AV8_400x400.jpg"
+    }
+  ]
+}
